@@ -201,15 +201,15 @@ def load_data_from_csv_to_table(csv_path, table_name):
 
 
 # Add data from csv file to location dimension table
-location_dim_csv_path = r'C:\Users\Acer\zipco_estate\location_dimension.csv'
+location_dim_csv_path = r'CC:\Users\Acer\zipco_estate\zipco_properties\location_dimension.csv'
 load_data_from_csv_to_table(location_dim_csv_path, 'zipco.location_dim')
 
 # Add data from csv file to Property Type dimension table
-property_type_dim_csv_path = r'C:\Users\Acer\zipco_estate\property_type_dimension.csv'
+property_type_dim_csv_path = r'C:\Users\Acer\zipco_estate\zipco_properties\property_type_dimension.csv'
 load_data_from_csv_to_table(property_type_dim_csv_path, 'zipco.property_type_dim')
 
 # Add data from csv file to legal description dimension table
-legal_description_dim_csv_path = r'C:\Users\Acer\zipco_estate\legalDescription_dimension.csv'
+legal_description_dim_csv_path = r'C:\Users\Acer\zipco_estate\zipco_properties\legalDescription_dimension.csv'
 load_data_from_csv_to_table(legal_description_dim_csv_path, 'zipco.legal_description_dim')
 
 # Code to ignore the Not Available in the sales dimension table
@@ -242,11 +242,11 @@ def load_data_from_csv_to_sales_table(csv_path, table_name):
 
 # sales dimension table
 
-sales_dim_csv_path = r'C:\Users\Acer\zipco_estate\sales_dimension.csv'
+sales_dim_csv_path = r'C:\Users\Acer\zipco_estate\zipco_properties\sales_dimension.csv'
 load_data_from_csv_to_sales_table(sales_dim_csv_path, 'zipco.sales_dim')
 
 # Add data from csv file to fact table table
-fact_table_csv_path = r'C:\Users\Acer\zipco_estate\property_fact.csv'
+fact_table_csv_path = r'C:\Users\Acer\zipco_estate\zipco_properties\property_fact.csv'
 load_data_from_csv_to_table(fact_table_csv_path, 'zipco.fact_table')
 
 print('All data has been loaded successfully into the respective schema and tables')
