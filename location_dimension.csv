@@ -1,0 +1,501 @@
+location_id,formattedAddress,city,state,zipCode,county,subdivision,longitude,latitude
+1,"413 77th St SE, Delano, MN 55328",Delano,MN,55328,Wright,MELQUISTS FOUNTAIN LK PENINS,-93.881352,45.041827
+2,"2595 Mclin Ln, The Villages, FL 32163",The Villages,FL,32163,Sumter,VILLAGES OF SUMTER,-82.019381,28.854511
+3,"59230 Nathan Georgetown St, Plaquemine, LA 70764",Plaquemine,LA,70764,Iberville,MILL SITE SUB-A016,-91.254217,30.274169
+4,"14407 Irving Ave, Dolton, IL 60419",Dolton,IL,60419,Cook,LEONARDS SUB,-87.602366,41.633152
+5,"10850 Walnut Hill Ln, Apt 139, Dallas, TX 75238",Dallas,TX,75238,Dallas,Not available,-96.696131,32.877938
+6,"230 Charter Oak Ave, San Francisco, CA 94124",San Francisco,CA,94124,San Francisco,GOLDEN CITY TRACT,-122.40473,37.733738
+7,"1036 N Hayes Ave, Pocatello, ID 83204",Pocatello,ID,83204,Bannock,POCATELLO TOWNSITE,-112.461748,42.867563
+8,"408 W Brown St, Luverne, MN 56156",Luverne,MN,56156,Rock,CHARLES O HAWES' ADDITION,-96.21559,43.657639
+9,"3127 Ellis Ave, Lakeland, FL 33803",Lakeland,FL,33803,Polk,CRYSTAL HILLS SUBDIVISION UNIT 2,-81.896279,28.0103
+10,"24 Mountain Pond Rd, Southington, CT 06489",Southington,CT,6489,Hartford,Not available,-72.922002,41.627002
+11,"221 E Mount Pleasant Ave, Philadelphia, PA 19119",Philadelphia,PA,19119,Philadelphia,Not available,-75.185907,40.061732
+12,"1712 Sandpiper Dr, Yuba City, CA 95993",Yuba City,CA,95993,Sutter,SANDPIPER ESTATES,-121.646936,39.121225
+13,"7525 Resch Loop, Glen Burnie, MD 21061",Glen Burnie,MD,21061,Anne Arundel,OAKVIEW VILLAGE 1,-76.622218,39.142576
+14,"15404 Hesperian Blvd, San Leandro, CA 94578",San Leandro,CA,94578,Alameda,Not available,-122.129611,37.693546
+15,"6957 W Dobson St, Niles, IL 60714",Niles,IL,60714,Cook,HOWARD AVE 01 ADD/TALMAN &,-87.800607,42.019626
+16,"48 Walnut Ln, Huntington, WV 25704",Huntington,WV,25704,Wayne,Not available,-82.516763,38.361301
+17,"46 Tobago Ave, Toms River, NJ 08753",Toms River,NJ,8753,Ocean,Not available,-74.120988,39.962395
+18,"8217 N 57th Dr, Glendale, AZ 85302",Glendale,AZ,85302,Maricopa,THUNDERBIRD ESTATES LOTS 1-52,-112.182085,33.555934
+19,"1862 36th St, Rock Island, IL 61201",Rock Island,IL,61201,Rock Island,KILCOINS THIRD ADD,-90.550428,41.491461
+20,"12 Forrest St, Phenix City, AL 36870",Phenix City,AL,36870,Russell,SHADYWOOD PARK SUB,-85.118905,32.469894
+21,"24934 Raven Ave, Eastpointe, MI 48021",Eastpointe,MI,48021,Macomb,HAMILTON SUBDIVISION,-82.923512,42.479196
+22,"5021 Tijuana Rd, Rio Grande City, TX 78582",Rio Grande City,TX,78582,Starr,Not available,-98.779901,26.369675
+23,"17 School St, Apt 4, New London, CT 06320",New London,CT,6320,New London,Not available,-72.100532,41.33519
+24,"7130 E Saddleback St, Unit 32, Mesa, AZ 85207",Mesa,AZ,85207,Maricopa,GOLF COLONY AT LAS SENDAS,-111.674887,33.486462
+25,"16 Reler Ln, Apt H, Somerset, NJ 08873",Somerset,NJ,8873,Somerset,Not available,-74.527578,40.444901
+26,"3164 E Dolphin Ave, Mesa, AZ 85204",Mesa,AZ,85204,Maricopa,MEADOWGREEN UNIT 3,-111.762751,33.403214
+27,"16122 Hillside Cir, Montverde, FL 34756",Montverde,FL,34756,Lake,LAKE FLORENCE SHORES,-81.688081,28.599932
+28,"24020 Alder Pl, Calabasas, CA 91302",Calabasas,CA,91302,Los Angeles,35647,-118.65451,34.124337
+29,"5951 South Loop E, Unit 46, Houston, TX 77033",Houston,TX,77033,Harris,CONTEMPORARY SOUTH,-95.330731,29.690601
+30,"1335 E 35th St, Brooklyn, NY 11210",Brooklyn,NY,11210,Kings,JEREMIAH BERGEN,-73.9407,40.621463
+31,"2305 Francis St, Houston, TX 77004",Houston,TX,77004,Harris,HOLMAN OUTLOT 35,-95.366445,29.733689
+32,"41 Road To The Plns, Edgartown, MA 02539",Edgartown,MA,2539,Dukes,EDGARTOWN,-70.529228,41.375126
+33,"2412 Blue Sky Ln, Lockhart, TX 78644",Lockhart,TX,78644,Caldwell,SUMMERSIDE,-97.661086,29.846837999999998
+34,"539 Camden Ave, Fairmont, WV 26554",Fairmont,WV,26554,Marion,Not available,-80.217865,39.463089
+35,"210 Briar Rdg, Apt 11, Festus, MO 63028",Festus,MO,63028,Jefferson,Not available,-90.391999,38.2149
+36,"4061 Hillside Dr, Lexington, KY 40514",Lexington,KY,40514,Fayette,WYNDHAM HILLS,-84.552756,37.971164
+37,"11030 S Chuichu N Rd, Casa Grande, AZ 85193",Casa Grande,AZ,85193,Pinal,Not available,-111.759056,32.779753
+38,"1014 Clemente Ct, Midland, TX 79706",Midland,TX,79706,Midland,LEGENDS PARK,-102.16037,31.988236
+39,"437 Jefferson St, Hagerstown, MD 21740",Hagerstown,MD,21740,Washington,Not available,-77.709358,39.642456
+40,"10800 Langton Ave, Cleveland, OH 44125",Cleveland,OH,44125,Cuyahoga,GARF PK,-81.609483,41.425795
+41,"4742 W Soft Wind Dr, Glendale, AZ 85310",Glendale,AZ,85310,Maricopa,SADDLEBACK MEADOWS UNIT 5,-112.162988,33.703068
+42,"36 Thorn Hedge Rd, Bellport, NY 11713",Bellport,NY,11713,Suffolk,Not available,-72.948136,40.743037
+43,"7147 Shenandoah Dr, Fort Mill, SC 29707",Fort Mill,SC,29707,Lancaster,CAROLINA LAKES,-80.849482,34.920323
+44,"553 South St, Apt 212, Glendale, CA 91202",Glendale,CA,91202,Los Angeles,Not available,-118.267181,34.162813
+45,"620 Rudy Dr, Clayton, NC 27520",Clayton,NC,27520,Johnston,ALLENS LNDG PH 03,-78.543584,35.559561
+46,"26911 N 21st Dr, Phoenix, AZ 85085",Phoenix,AZ,85085,Maricopa,VALLEY VISTA PARCEL A AMD,-112.104532,33.728967
+47,"2832 Olney Rd, Kalamazoo, MI 49006",Kalamazoo,MI,49006,Kalamazoo,HYBELS SUBDIVISION,-85.625205,42.298493
+48,"3213 Villa Pisani Ct, North Las Vegas, NV 89031",North Las Vegas,NV,89031,Clark,CORTONA-PHASE 2,-115.183383,36.275531
+49,"1625 B St, Unit 2, Anderson, IN 46016",Anderson,IN,46016,Madison County,Not available,-85.659962,40.099366
+50,"3902 Spring Garden Dr, Pearland, TX 77584",Pearland,TX,77584,Brazoria,SPRINGFIELD,-95.299131,29.537465
+51,"4745 Estero Blvd, Apt 402, Fort Myers Beach, FL 33931",Fort Myers Beach,FL,33931,Lee,FM BEACH STRANDVIEW TO AVENIDA PESCADORA,-81.920554,26.436165
+52,"319 W Jamison Cir, Apt 20, Littleton, CO 80120",Littleton,CO,80120,Arapahoe,SOUTHBRIDGE SUB 8TH FLG,-104.99195,39.578699
+53,"175 Hawthorne Ave, Apt 168, Central Islip, NY 11722",Central Islip,NY,11722,Suffolk,Not available,-73.196857,40.801169
+54,"1109 Village Point Rd SW, Shallotte, NC 28470",Shallotte,NC,28470,Brunswick,Not available,-78.384507,33.934829
+55,"2525 N Hwy, 67, Florissant, MO 63033",Florissant,MO,63033,Saint Louis,Not available,-90.306236,38.805743
+56,"7024 Polaris Ln N, Maple Grove, MN 55311",Maple Grove,MN,55311,Hennepin,FISH LAKE WEST PLAT 5,-93.473555,45.082459
+57,"1313 Rodman Rd, Wilmington, DE 19805",Wilmington,DE,19805,New Castle,CANBY PARK ESTATES,-75.58338,39.739836
+58,"512 S Greenwood Ave, Park Ridge, IL 60068",Park Ridge,IL,60068,Cook,WHITAKERS PARK RDG,-87.841113,42.004301
+59,"2152 Lang Ave, Spring Valley, CA 91977",Spring Valley,CA,91977,San Diego,Not available,-117.007743,32.728457
+60,"1560 Hampton Knoll Dr, Akron, OH 44313",Akron,OH,44313,Summit,Not available,-81.55340699999999,41.145701
+61,"521 S Park Blvd, Streamwood, IL 60107",Streamwood,IL,60107,Cook,WOODLAND HEIGHTS UNIT2,-88.166949,42.019439
+62,"705 E Homestead Rd, Sunnyvale, CA 94087",Sunnyvale,CA,94087,Santa Clara,WASHINGTON HOMES,-122.022769,37.337969
+63,"1946 E Linden St, Kankakee, IL 60901",Kankakee,IL,60901,Kankakee,Not available,-87.838189,41.122462
+64,"2127 Gaylawn Dr, Halethorpe, MD 21227",Halethorpe,MD,21227,Baltimore,GAYLAWN,-76.658433,39.251787
+65,"22296 Sycamore Dr, Cleveland, OH 44126",Cleveland,OH,44126,Cuyahoga,MATHERSONS SYCAMORE SUB,-81.867294,41.425954
+66,"13607 Carlton Oaks, San Antonio, TX 78232",San Antonio,TX,78232,Bexar,CONV A/S CODE,-98.458645,29.567492
+67,"224 28th Ave, East Moline, IL 61244",East Moline,IL,61244,Rock Island,P PRESSELS ADD,-90.456786,41.503754
+68,"1636 S Conwell St, Casper, WY 82601",Casper,WY,82601,Natrona,BUTLER,-106.307721,42.833557
+69,"1606 Coventry Pl, Clementon, NJ 08021",Clementon,NJ,8021,Camden,CHERRYWOOD SEC 02,-75.033243,39.79537
+70,"719 N Gagon St, Rockport, TX 78382",Rockport,TX,78382,Aransas,SMITH AND WOOD,-97.056949,28.029792
+71,"13297 Stone Pond Dr, Jacksonville, FL 32224",Jacksonville,FL,32224,Duval,WOLF CREEK,-81.470657,30.283504
+72,"808 Columbus Ave, Unit 808-05, Manhattan, NY 10025",Manhattan,NY,10025,New York,Not available,-73.966637,40.794647
+73,"610 Mandrell St, Mobile, AL 36606",Mobile,AL,36606,Mobile,SHANNON HGTS,-88.103331,30.667466
+74,"1723 Chatelain Way, Mount Pleasant, SC 29464",Mount Pleasant,SC,29464,Charleston,SOUTHAMPTON POINTE HPR,-79.844854,32.823288
+75,"21280 E 103rd St S, Broken Arrow, OK 74014",Broken Arrow,OK,74014,Wagoner,WHISPERING HILLS EST,-95.741182,36.014253
+76,"851 W Bruce Ave, Gilbert, AZ 85233",Gilbert,AZ,85233,Maricopa,SUMMER MEADOWS PARCEL 4,-111.808152,33.351943
+77,"8 Mary Ann Rd, Jefferson Township, NJ 07438",Jefferson Township,NJ,7438,Morris County,Not available,-74.487406,41.0283
+78,"58 Halsey Rd, New Britain, CT 06051",New Britain,CT,6051,Hartford,Not available,-72.75763,41.655892
+79,"716 Villa Gln, Apartments, Bessemer, AL 35020",Bessemer,AL,35020,Jefferson,Not available,-86.971411,33.377835
+80,"1320 San Antone Ln, Lewisville, TX 75077",Lewisville,TX,75077,Denton,LEWISVILLE VALLEY 2,-97.027451,33.050094
+81,"1516 Lancashire Dr SE, Grand Rapids, MI 49508",Grand Rapids,MI,49508,Kent,MILL BROOK ESTATES,-85.628761,42.903884
+82,"151 Cleggan Rd, Apt 201, Rock Hill, SC 29730",Rock Hill,SC,29730,York,Not available,-80.96844,34.935264
+83,"20610 60th Ave W Apt F, Lynnwood, WA 98036",Lynnwood,WA,98036,Snohomish,SUBDIVISION THE ATHERTON,-122.314762,47.811561
+84,"3221 Cottonwood Bnd, Apt 502, Fort Myers, FL 33905",Fort Myers,FL,33905,Lee,E FM SR 80 VERANDAH,-81.763615,26.697844
+85,"5850 Coral Ridge Dr, Ste 215, Coral Springs, FL 33076",Coral Springs,FL,33076,Broward,Not available,-80.281928,26.30353
+86,"3865 Overlook Dr, Island Park, ID 83429",Island Park,ID,83429,Fremont,Not available,-111.38403,44.666331
+87,"139 Boyce Ave, Utica, NY 13501",Utica,NY,13501,Oneida,Not available,-75.243685,43.085644
+88,"415 Charlotte, Rockport, TX 78382",Rockport,TX,78382,Aransas,Not available,-96.994929,28.165256
+89,"15 S Sailors Quay Dr, Brick, NJ 08723",Brick,NJ,8723,Ocean,SAILORS QUAY,-74.132452,40.038563
+90,"1900 N Bayshore Dr, Apt 1412, Miami, FL 33132",Miami,FL,33132,Miami-Dade,QUANTUM ON THE BAY CONDO NORTH,-80.187051,25.794929
+91,"1856 Jefferson Rd, Jacksonville, FL 32246",Jacksonville,FL,32246,Duval,BEACH ROAD FARMS UNIT 04,-81.527631,30.318101
+92,"729 Laurel Crown Rd, Manchester, TN 37355",Manchester,TN,37355,Coffee,COUNTRY CLUB ESTATES 3,-86.11801,35.483271
+93,"4317 Eisenhower Dr, Bethlehem, PA 18020",Bethlehem,PA,18020,Northampton,COLTS RUN,-75.325633,40.696099
+94,"594 Fremont Ave S, Pinedale, WY 82941",Pinedale,WY,82941,Sublette,Not available,-109.858983,42.860147
+95,"3731 King Palm Dr, El Paso, TX 79936",El Paso,TX,79936,El Paso,PALM DESERT,-106.284092,31.803214
+96,"1307 Webberville Rd, Austin, TX 78721",Austin,TX,78721,Travis,HILL ESTATES,-97.68318,30.278768
+97,"6418 Ridge Pass Dr, San Antonio, TX 78233",San Antonio,TX,78233,Bexar,CONV A/S CODE,-98.362145,29.57596
+98,"Gateway Blvd, Desert Hot Springs, CA 92240",Desert Hot Springs,CA,92240,Riverside,Not available,-116.587575,33.955797
+99,"PO Box 5785, Huntington Beach, CA 92615",Huntington Beach,CA,92615,Orange,Not available,-117.9693,33.6572
+100,"2731 Mackubin St, Apt 25, Saint Paul, MN 55113",Saint Paul,MN,55113,Ramsey,WESTWOOD VILLAGE TWNHS PLAT 2,-93.123731,45.022337
+101,"6241 S Parkside Dr, Tempe, AZ 85283",Tempe,AZ,85283,Maricopa,WOOD PARK VILLAGE,-111.955679,33.364188
+102,"118 W Hensley St, Unit A, Branson, MO 65616",Branson,MO,65616,Taney,Not available,-93.21832,36.637268
+103,"614 Cavanagh Rd, Glendale, CA 91207",Glendale,CA,91207,Los Angeles,BELLEHURST HILLSLOPES,-118.247261,34.167759
+104,"1107 Channels Ct, Crosby, TX 77532",Crosby,TX,77532,Harris,NEWPORT,-95.084234,29.920197
+105,"4333 Queen Anne Dr, Union City, CA 94587",Union City,CA,94587,Alameda,Not available,-122.075546,37.588798
+106,"2094 Tokay St, Santa Rosa, CA 95404",Santa Rosa,CA,95404,Sonoma,KAWANA SPRINGS 2B,-122.701109,38.420263
+107,"479 Cold Spring Ave, West Springfield, MA 01089",West Springfield,MA,1089,Hampden,Not available,-72.626283,42.092194
+108,"4225 W Fortune Dr, Ste 120, Anthem, AZ 85086",Anthem,AZ,85086,Maricopa,Not available,-112.150207,33.867998
+109,"Gray Ln, Cascade, ID 83611",Cascade,ID,83611,Valley,Not available,-116.020416,44.322346
+110,"892 W Placita Estrella Azul, Tucson, AZ 85713",Tucson,AZ,85713,Pima,PASEO ESTRELLA,-110.984059,32.207705
+111,"1449 Highland Pkwy, Saint Paul, MN 55116",Saint Paul,MN,55116,Ramsey,"KENSINGTON PARK ADDITION,TO ST",-93.161279,44.919996
+112,"824 Prospect Blvd, Waterloo, IA 50701",Waterloo,IA,50701,Black Hawk,PROSPECT HILLS ADDITION,-92.367776,42.472492
+113,"4448 E 17th St, Tucson, AZ 85711",Tucson,AZ,85711,Pima,THOREAU,-110.896932,32.213503
+114,"8335 Coppertowne Ct, Dallas, TX 75243",Dallas,TX,75243,Dallas,COPPERFIELD ADDITION,-96.727149,32.897189
+115,"2199 Garlic Creek Dr, Buda, TX 78610",Buda,TX,78610,Hays,GARLIC CREEK WEST PH III SEC 1,-97.85871,30.09776
+116,"5042 Lakeshore Dr, Willis, TX 77318",Willis,TX,77318,Montgomery,SEVEN COVES 04,-95.563698,30.409601
+117,"9425 Grayce Dr, Sturtevant, WI 53177",Sturtevant,WI,53177,Racine,BECKS SUB,-87.900677,42.691441
+118,"1009 Carrie St, Augusta, GA 30901",Augusta,GA,30901,Richmond,LANEY-WALKER,-81.974256,33.46673
+119,"5682 S Garnet Dr, Saint George, UT 84790",Saint George,UT,84790,Washington,AUBURN HILLS PH 2,-113.599332,37.011056
+120,"1995 Layton St, Pasadena, CA 91104",Pasadena,CA,91104,Los Angeles,875,-118.109528,34.172767
+121,"6970 Elm St, Hayes, VA 23072",Hayes,VA,23072,Gloucester,Not available,-76.51715,37.303676
+122,"148 W Jackson St, York, PA 17401",York,PA,17401,York,Not available,-76.725936,39.950999
+123,"38 Almador, Irvine, CA 92614",Irvine,CA,92614,Orange,WESTPARK MAINTENANCE,-117.829677,33.675465
+124,"812 N Walnut Dr, Santa Maria, CA 93458",Santa Maria,CA,93458,Santa Barbara,MC MILLAN MANOR NO.12,-120.439012,34.960962
+125,"213 S 6th St, Riverton, IL 62561",Riverton,IL,62561,Sangamon County,Not available,-89.541325,39.842728
+126,"1899 Agora Cir SE, Apt 2, Palm Bay, FL 32909",Palm Bay,FL,32909,Brevard,Not available,-80.61593,27.994592
+127,"10319 Marble Crest Dr, Houston, TX 77095",Houston,TX,77095,Harris,CANYON LAKES VILLAGE AMEND,-95.68581,29.925702
+128,"104 Country Ln, Unit 104, Buena, NJ 08310",Buena,NJ,8310,Atlantic,Not available,-74.924422,39.510384
+129,"3533 Lacewood Ct, Fayetteville, NC 28306",Fayetteville,NC,28306,Cumberland,GRAYS CREEK DISTRICT,-78.848589,34.866263000000004
+130,"41 Pawnee Ave, Oakland, NJ 07436",Oakland,NJ,7436,Bergen,Not available,-74.222594,41.041554
+131,"27 Residential Ln, Blackstone, MA 01504",Blackstone,MA,1504,Worcester,Not available,-71.54429,42.033333
+132,"16 Maravilla Way, Hot Springs Village, AR 71909",Hot Springs Village,AR,71909,Garland,VEREDA,-92.847551,34.636353
+133,"14572 Barrydale St, La Puente, CA 91746",La Puente,CA,91746,Los Angeles,23064,-117.961854,34.054731
+134,"5621 Sw 57th St, Davie, FL 33314",Davie,FL,33314,Broward,STIRLING LAKE 48-45 B,-80.221676,26.050134
+135,"1714 Saw Lake Dr, Middleburg, FL 32068",Middleburg,FL,32068,Clay,BRANNAN MILL PLANTATION 02,-81.817431,30.119434
+136,"681 E Main St, Apt 15, Centreville, MI 49032",Centreville,MI,49032,St. Joseph,Not available,-85.510223,41.921829
+137,"805 E Prospect St, York, PA 17403",York,PA,17403,York County,Not available,-76.710264,39.961475
+138,"4221 Sw 54th Ct, Ocala, FL 34474",Ocala,FL,34474,Marion,RED HAWK,-82.211056,29.145086
+139,"223 Pablo Rd, Round Mountain, NV 89045",Round Mountain,NV,89045,Nye,SHOSHONE ESTATES,-117.167434,38.780019
+140,"600 Northern Way, Apt 1504, Winter Springs, FL 32708",Winter Springs,FL,32708,Seminole,TUSCANY PLACE,-81.257111,28.682102
+141,"642 Alcatraz Ave, Apt 303, Oakland, CA 94609",Oakland,CA,94609,Alameda,Not available,-122.263688,37.850031
+142,"6655 Palm Ave, Apt 12 1/2, Riverside, CA 92506",Riverside,CA,92506,Riverside,Not available,-117.402233,33.952512
+143,"13562 89th Pl N, Maple Grove, MN 55369",Maple Grove,MN,55369,Hennepin,EASTRIDGE ADDN,-93.452511,45.1183
+144,"4123 Maple Ave, Brookfield, IL 60513",Brookfield,IL,60513,Cook,FIRST ADD ROOSEVELT PA,-87.851054,41.816162
+145,"2434 39th St NW, Washington, DC 20007",Washington,DC,20007,District Of Columbia,GLOVER PARK,-77.077331,38.921739
+146,"443 New York Ave NW, Washington, DC 20001",Washington,DC,20001,District of Columbia,Not available,-77.017917,38.904764
+147,"3418 Drysdale Dr, Murfreesboro, TN 37128",Murfreesboro,TN,37128,Rutherford,WESTWIND SEC 4 PH 1 & RESUB OF CA SEC 2,-86.462443,35.79005
+148,"213 Monticello Ave, Culpeper, VA 22701",Culpeper,VA,22701,Culpeper,KELLY SUBDIVISION,-78.003668,38.476052
+149,"14269 Superior Rd, Cleveland, OH 44118",Cleveland,OH,44118,Cuyahoga,EMIL C PREYERS PROPOSED,-81.57209,41.512988
+150,"4984 Rockstone Way, Acworth, GA 30101",Acworth,GA,30101,Cobb,WOODCREEK,-84.630431,34.077528
+151,"11114 Rippling Meadows Dr, Houston, TX 77064",Houston,TX,77064,Harris,HARVEST BEND,-95.56745,29.930638
+152,"2741 Nc Hwy, 20 W, Saint Pauls, NC 28384",Saint Pauls,NC,28384,Robeson County,Not available,-79.026397,34.83614
+153,"2424 S 41st St, Unit 552B, Tacoma, WA 98409",Tacoma,WA,98409,Pierce,Not available,-122.468536,47.219387
+154,"4540 Barnett Rd, Apt 129, Wichita Falls, TX 76310",Wichita Falls,TX,76310,Wichita,Not available,-98.577946,33.859432
+155,"11329 Sitzmark Way, Truckee, CA 96161",Truckee,CA,96161,Nevada,TAHOE DONNER UNIT 8,-120.200801,39.350988
+156,"875 E Diana Hills Way, Sandy, UT 84094",Sandy,UT,84094,Salt Lake,LONE PEAK ESTATES #2,-111.866177,40.550532
+157,"908 Ne 106th Ave, Unit 908, Vancouver, WA 98664",Vancouver,WA,98664,Clark,Not available,-122.563867,45.628148
+158,"2049 Treasure Ln, Punta Gorda, FL 33982",Punta Gorda,FL,33982,Charlotte,THE ESTATES,-81.978033,27.00419
+159,"4502 Dunton Ter, Unit G, Perry Hall, MD 21128",Perry Hall,MD,21128,Baltimore,Not available,-76.447607,39.410936
+160,"208 Fitzgerald Ct, Tioga, TX 76271",Tioga,TX,76271,Grayson,FITZGERALD ADDITION,-96.912898,33.463539
+161,"2225 Metropolitan Way, Apt 1212, Orlando, FL 32839",Orlando,FL,32839,Orange,BELMONT AT PARK CENTRAL CONDO,-81.411105,28.492857
+162,"509 Pleasant View Dr, Douglassville, PA 19518",Douglassville,PA,19518,Berks,WOODS EDGE PH 02B,-75.710627,40.310761
+163,"360 H St NE, # 01-320, Washington, DC 20002",Washington,DC,20002,District of Columbia,Not available,-77.000954,38.900364
+164,"11609 W Madison St, Avondale, AZ 85323",Avondale,AZ,85323,Maricopa,COLDWATER SPRINGS PARCEL 29,-112.30893,33.444038
+165,"7022 Amie St, Shreveport, LA 71108",Shreveport,LA,71108,Caddo,CLOVER SUBN,-93.795211,32.440958
+166,"1083 Butte Ave, Big Bear City, CA 92314",Big Bear City,CA,92314,San Bernardino,MOONRIDGE MOUNTAIN ESTATES,-116.863226,34.241076
+167,"304 Ash Grove Dr, Nashville, TN 37211",Nashville,TN,37211,Davidson,HICKORY VALLEY,-86.705206,36.050299
+168,"4756 N 56th St, Phoenix, AZ 85018",Phoenix,AZ,85018,Maricopa,HIGHLANDS 2,-111.96121,33.508103
+169,"3180 Coral Way, Apt 904, Miami, FL 33145",Miami,FL,33145,Miami-Dade,MIDTOWN LOFTS CONDO,-80.24568,25.749602
+170,"8935 Burnet Ave, Apt 108, North Hills, CA 91343",North Hills,CA,91343,Los Angeles,Not available,-118.463829,34.232843
+171,"228 Kingsley St, Apt 108, Buffalo, NY 14208",Buffalo,NY,14208,Erie,Not available,-78.845556,42.90839
+172,"160 Congress Park Dr, Ste 210, Delray Beach, FL 33445",Delray Beach,FL,33445,Palm Beach,Not available,-80.094232,26.45804
+173,"990 Equestrian Dr, Apt 1318, Henderson, NV 89002",Henderson,NV,89002,Clark,Not available,-114.952552,36.010616
+174,"1820 Sweet Gum Dr, Anna, TX 75409",Anna,TX,75409,Collin,OAK HOLLOW ESTATES PHASE 6 (CAN),-96.577688,33.335175
+175,"2018 Northgate Dr, Apt A, Greensburg, IN 47240",Greensburg,IN,47240,Decatur,Not available,-85.467887,39.358331
+176,"4492 N Banner Dr, Apt 3, Long Beach, CA 90807",Long Beach,CA,90807,Los Angeles,Not available,-118.174931,33.840396
+177,"623 Witmer St, Weslaco, TX 78596",Weslaco,TX,78596,Hidalgo,JAMES M. BLACK - SWL,-97.984709,26.160197
+178,"1427 Hobson Dr, Richmond, TX 77406",Richmond,TX,77406,Fort Bend,PLANTATION PLACE SEC 1,-95.74196,29.615568
+179,"3020 Eagle Crest Rd, Edmond, OK 73013",Edmond,OK,73013,Oklahoma,EAGLE CREST II,-97.458427,35.605246
+180,"13870 Hydrangea Ct, Woodbridge, VA 22193",Woodbridge,VA,22193,Prince William,MEADOWS OF MINNIEVILLE,-77.330152,38.652403
+181,"114 Commonwealth Ave, Buffalo, NY 14216",Buffalo,NY,14216,Erie,HOLLAND LAND COMPANYS SURV,-78.862145,42.948239
+182,"1107 W 36th St, Loveland, CO 80538",Loveland,CO,80538,Larimer,SUNSET ACRES,-105.093495,40.428728
+183,"5799 Nw 24th Ter, Boca Raton, FL 33496",Boca Raton,FL,33496,Palm Beach,CLOISTER AT BROKEN SOUND REPL,-80.133629,26.400658
+184,"420 Sunset Blvd, Kissimmee, FL 34741",Kissimmee,FL,34741,Osceola,TROPICAL PK UN 4,-81.407783,28.3268
+185,"6931 S Rolling Meadows Ct, Oak Creek, WI 53154",Oak Creek,WI,53154,Milwaukee,MEADOWS,-87.888263,42.918004
+186,"13781 Arne Erickson Cir, Anchorage, AK 99515",Anchorage,AK,99515,Anchorage,SUNSET MANOR SUBDIVISION UNIT #3,-149.851576,61.096014
+187,"3504 121st Ln NW, Minneapolis, MN 55433",Minneapolis,MN,55433,Anoka,WEDGEWOOD PARC 8TH ADDITION,-93.35518,45.192439
+188,"109 Trade Ln, Grand Isle, LA 70358",Grand Isle,LA,70358,Jefferson,Not available,-90.05097731,29.212850532
+189,"55150 Mayflower Rd, South Bend, IN 46628",South Bend,IN,46628,St Joseph,CARPENTERS MAYFLOWER ROAD ADD,-86.322034,41.691359
+190,"2042 Lothbury Dr, Fayetteville, NC 28304",Fayetteville,NC,28304,Cumberland,ARRAN LAKES WEST I,-79.000352,35.018056
+191,"1113 Deep Hollow Ct, Waxhaw, NC 28173",Waxhaw,NC,28173,Union,SILVER CREEK,-80.69276,34.978301
+192,"1230 Reed Rd, Bellevue, TX 76228",Bellevue,TX,76228,Clay,Not available,-97.998444,33.583377
+193,"1067 Dees Dr, Oviedo, FL 32765",Oviedo,FL,32765,Seminole,ALAFAYA WOODS,-81.185615,28.644603
+194,"4817 N 111th Gln, Phoenix, AZ 85037",Phoenix,AZ,85037,Maricopa,CAMELBACK RANCH UNIT 1,-112.299482,33.504964
+195,"5351 Nw 126th Ter, Portland, OR 97229",Portland,OR,97229,Washington,BANNISTER CREEK PARK NO.3,-122.80608,45.558305
+196,"5105 Spinning Wheel Rd NW, Albuquerque, NM 87120",Albuquerque,NM,87120,Bernalillo,HOMESTEAD HILLS,-106.696988,35.166362
+197,"1067 Villaggio Cir, Vacaville, CA 95688",Vacaville,CA,95688,Solano,VILLAGGIO (REMAP),-121.97633,38.394299
+198,"8414 Opossumtown Pike, Frederick, MD 21702",Frederick,MD,21702,Frederick,Not available,-77.416657,39.467292
+199,"3105 Highland Ave, Apt 2, Mcallen, TX 78501",Mcallen,TX,78501,Hidalgo,Not available,-98.25206,26.230227
+200,"1338 Bald Mountain Rd, West Jefferson, NC 28694",West Jefferson,NC,28694,Ashe,Not available,-81.535131,36.373759
+201,"9 Clarissa Dr, Syosset, NY 11791",Syosset,NY,11791,Nassau,Not available,-73.504856,40.818767
+202,"6325 Parson Brown Dr, Orlando, FL 32819",Orlando,FL,32819,Orange,ORANGE TREE C C UT 2,-81.489683,28.469137
+203,"15114 Jetfire Pt, San Antonio, TX 78073",San Antonio,TX,78073,Bexar,Not available,-98.580615,29.272462
+204,"2 Richardson Rd, Castle Rock, CO 80104",Castle Rock,CO,80104,Douglas,COUNTRY HOUSE ADDITION,-104.846031,39.372946
+205,"823 Myrtle St, Scranton, PA 18510",Scranton,PA,18510,Lackawanna,BELL & SPITZER,-75.650007,41.413648
+206,"12816 Crisfield Rd, Silver Spring, MD 20906",Silver Spring,MD,20906,Montgomery,CONNECTICUT AVE CONN EST,-77.069577,39.067405
+207,"2461 Streamview Dr, Waldorf, MD 20603",Waldorf,MD,20603,Charles,STREAMVIEW SUB,-76.940433,38.645116
+208,"801 Cartwright Dr, Apt 10, Noble, OK 73068",Noble,OK,73068,Cleveland,Not available,-97.388133,35.134786
+209,"821 E Iredell Ave, Mooresville, NC 28115",Mooresville,NC,28115,Iredell,EDGEMORE PARK AREA,-80.796227,35.579996
+210,"2018 Nw Everett St, Apt 301, Portland, OR 97209",Portland,OR,97209,Multnomah,Not available,-122.692814,45.524839
+211,"280 Thornton Dr, Fayetteville, GA 30214",Fayetteville,GA,30214,Fayette,BETHSAIDA WOODS,-84.467341,33.505791
+212,"9084 Vaughn Cv, Bartlett, TN 38133",Bartlett,TN,38133,Shelby,PH 8 AREA D SEC A PLANTATION EST DAVIESH,-89.758656,35.231124
+213,"4029 W 143rd St, Cleveland, OH 44135",Cleveland,OH,44135,Cuyahoga,LIBERTY#1,-81.793509,41.444558
+214,"19506 38th Dr SE, Bothell, WA 98012",Bothell,WA,98012,Snohomish,THE RESERVE AT NORTH CREEK,-122.18178,47.820567
+215,"29469 N Candlewood Dr, San Tan Valley, AZ 85143",San Tan Valley,AZ,85143,Pinal,JOHNSON RANCH UNIT 13,-111.563934,33.147369
+216,"6145 Trailhead Rd, Highlands Ranch, CO 80130",Highlands Ranch,CO,80130,Douglas,HIGHLANDS RANCH,-104.915756,39.544726
+217,"817 10th Ave, Apt 5, Huntington, WV 25701",Huntington,WV,25701,Cabell,Not available,-82.442383,38.411908
+218,"111 Duvall Dr, Stockbridge, GA 30281",Stockbridge,GA,30281,Henry,H H DUVALL,-84.230755,33.549932
+219,"225 E 34th St, Apt 19B, New York City, NY 10016",New York City,NY,10016,New York County,Not available,-73.97683,40.74549
+220,"9 Park Ave, Apt 304, Hull, MA 02045",Hull,MA,2045,Plymouth,HORIZONS/PARAGON PARK CONDO,-70.853277,42.268004
+221,"17746 50th St N, Loxahatchee, FL 33470",Loxahatchee,FL,33470,Palm Beach,ACREAGE & UNREC,-80.324692,26.752687
+222,"4233 Cornelius Ave, Indianapolis, IN 46208",Indianapolis,IN,46208,Marion,CORYDON CO ADDITION,-86.165506,39.833036
+223,"40723 Gualala Pl, Fremont, CA 94539",Fremont,CA,94539,Alameda,Not available,-121.950836,37.547289
+224,"4986 Cherry Ave, San Jose, CA 95118",San Jose,CA,95118,Santa Clara,Not available,-121.877591,37.258711
+225,"505 Perry St, Conway, SC 29527",Conway,SC,29527,Horry,QUATTLEBAUM ACRES,-79.077511,33.823864
+226,"572 Hooker Dr, Gettysburg, PA 17325",Gettysburg,PA,17325,Adams,Not available,-77.179165,39.814379
+227,"4133 Yates Ave N, Minneapolis, MN 55422",Minneapolis,MN,55422,Hennepin,CONFER BROS GLENWOOD MANOR 2ND ADDN,-93.354077,45.030612
+228,"1475 Main St, Barnegat, NJ 08005",Barnegat,NJ,8005,Ocean,Not available,-74.37059,39.747946
+229,"5425 Sun Meadow Cir, Granbury, TX 76049",Granbury,TX,76049,Hood,SUNCHASE MEADOWS,-97.696483,32.485785
+230,"139 E 41st St, Covington, KY 41015",Covington,KY,41015,Kenton,TAYLOR HEIRS PLAT E,-84.500094,39.042297
+231,"48 Woodbridge Rd, North Andover, MA 01845",North Andover,MA,1845,Essex,Not available,-71.124821,42.693648
+232,"415 W State St, Apt 3, Corunna, MI 48817",Corunna,MI,48817,Shiawassee,Not available,-84.122863,42.979868
+233,"2313 Club Oaks Ct, Mckinney, TX 75072",Mckinney,TX,75072,Collin,VILLAGE OF ELDORADO PHASE 1 (CMC),-96.64853600000001,33.175268
+234,"2100 33rd Ave NE, Minneapolis, MN 55418",Minneapolis,MN,55418,Hennepin,LINDS NORTH EAST ADDN TO MPLS,-93.230356,45.027557
+235,"12018 Mariposa Canyon Dr, Tomball, TX 77377",Tomball,TX,77377,Harris,CANYON GATE AT NORTHPOINTE,-95.617377,30.037834
+236,"3226 Leyte St, San Antonio, TX 78217",San Antonio,TX,78217,Bexar,CONV A/S CODE,-98.434542,29.530112
+237,"6023 Vista De Ln, Mesa, La Jolla, CA 92037",La Jolla,CA,92037,San Diego,LA JOLLA HERMOSA,-117.27475,32.820764
+238,"19019 Runners Ln, Humble, TX 77346",Humble,TX,77346,Harris,OLYMPIC VILLAGE,-95.142806,29.994802
+239,"3909 E 29th St, Minneapolis, MN 55406",Minneapolis,MN,55406,Hennepin,DORMANS 1ST ADDN TO MPLS,-93.216433,44.950033
+240,"15787 John Diskin Cir, Woodbridge, VA 22191",Woodbridge,VA,22191,Prince William,POWELLS RUN VILLAGE CONDOMINIUM,-77.285883,38.61488
+241,"4615 Deere St, Dallas, TX 75204",Dallas,TX,75204,Dallas,MILIMO TERRACE,-96.783154,32.808343
+242,"6740 Berryhill St, Milton, FL 32570",Milton,FL,32570,Santa Rosa,TOWN OF MILTON,-87.04131,30.625688
+243,"208 Green Gable Ln, Salisbury, NC 28147",Salisbury,NC,28147,Rowan,WEDGEFIELD,-80.532448,35.74086
+244,"4.90 Acres Henry Moxley Rd, Cobbtown, GA 30420",Cobbtown,GA,30420,Tattnall County,Not available,-82.21763,32.2876
+245,"1308 Noreen Dr, Burlington, NJ 08016",Burlington,NJ,8016,Burlington,TRENT HOMES INC SEC 02,-74.868283,40.06025
+246,"1801 E Lake Rd, Apt 2C, Palm Harbor, FL 34685",Palm Harbor,FL,34685,Pinellas,"EL PASADO, A CONDO",-82.699183,28.083596
+247,"242 Peace St, Cranberry Township, PA 16066",Cranberry Township,PA,16066,Butler,Not available,-80.075681,40.70007
+248,"54 Mischa Ct, Lake Zurich, IL 60047",Lake Zurich,IL,60047,Lake,OAKS SUB,-88.101163,42.192632
+249,"4606 Valerie Dr, Crystal Lake, IL 60014",Crystal Lake,IL,60014,McHenry,CRYSTAL LAKE ESTATES,-88.287441,42.237071
+250,"5030 Sw 90th Way, Cooper City, FL 33328",Cooper City,FL,33328,Broward,COOPER COLONY ESTATES SEC 1,-80.272059,26.059001
+251,"10487 E Breathless Dr, Gold Canyon, AZ 85118",Gold Canyon,AZ,85118,Pinal,MESA DEL ORO ESTATES,-111.43268,33.35264
+252,"PO Box 17563, Asheville, NC 28816",Asheville,NC,28816,Buncombe,Not available,-82.6027,35.585
+253,"Liz Vista Ln, Lot 35, Knoxville, TN 37931",Knoxville,TN,37931,Anderson County,Not available,-84.127894,35.998975
+254,"1182 Town East Mall, Mesquite, TX 75150",Mesquite,TX,75150,Dallas,Not available,-96.626854,32.808857
+255,"485 Lindbergh Pl NE, # 210, Atlanta, GA 30324",Atlanta,GA,30324,Fulton,Not available,-84.370943,33.82019
+256,"174 Greenhill Way, Mount Sterling, KY 40353",Mount Sterling,KY,40353,Montgomery,GREEN HILLS,-83.912612,38.076013
+257,"1017 Semmes St, Memphis, TN 38111",Memphis,TN,38111,Shelby,HOSKINS,-89.962041,35.104078
+258,"PO Box 1045, China, TX 77613",China,TX,77613,Jefferson,Not available,-94.334262,30.042633
+259,"107 Harrison St, Apt B, Oak Park, IL 60304",Oak Park,IL,60304,Cook,Not available,-87.777258,41.872456
+260,"1009 Green Pine Blvd, Apt E2, West Palm Beach, FL 33409",West Palm Beach,FL,33409,Palm Beach,PALM CLUB VILLAGE I NO COND,-80.107813,26.730286
+261,"18338 Desert Marigold Dr, Houston, TX 77073",Houston,TX,77073,Harris,REMINGTON RANCH SEC 24,-95.404114,29.970346
+262,"8675 Pleasant Hill Cir, Tyler, TX 75707",Tyler,TX,75707,Smith,PLEASANT HILLS EST,-95.253876,32.280261
+263,"3929 Johnstown Alexandria Rd, Johnstown, OH 43031",Johnstown,OH,43031,Licking,Not available,-82.650188,40.113251
+264,"788 Kersten Way, # A109, Osage Beach, MO 65065",Osage Beach,MO,65065,Camden,GOLDEN REEF RESORT CONDO,-92.638391,38.129096
+265,"11627 202nd St, Saint Albans, NY 11412",Saint Albans,NY,11412,Queens,Not available,-73.750446,40.695749
+266,"3503 Bennett Pl, Southampton, PA 18966",Southampton,PA,18966,Bucks,TAMERLANE CONDO,-74.965446,40.203405
+267,"36 Scott Unit-lower Rear House St, Apt 3, Tonawanda, NY 14150",Tonawanda,NY,14150,Erie,Not available,-78.871841,43.015533
+268,"9127 Northstar Ln NE, Albuquerque, NM 87122",Albuquerque,NM,87122,Bernalillo,TAOS AT THE TRAILS UNIT 2,-106.556903,35.190043
+269,"2011 S 14th St, Apt 6, Pekin, IL 61554",Pekin,IL,61554,Tazewell,Not available,-89.631145,40.543638
+270,"2533 W Patterson Ave, Chicago, IL 60618",Chicago,IL,60618,Cook,BRADLEY PH 02,-87.691992,41.947346
+271,"2605 Houghton Lean, Macungie, PA 18062",Macungie,PA,18062,Lehigh,HARRIS YORK,-75.539663,40.541211
+272,"1101 Driftwood Ranch Trl, Weatherford, TX 76087",Weatherford,TX,76087,Parker,DRIFTWOOD RANCH ON BRAZOS I,-97.806232,32.572727
+273,"5285 Clearview Dr, Brownsville, TX 78526",Brownsville,TX,78526,Cameron,RIDGELINE TERRACE I,-97.490753,25.983115
+274,"790 Township Line Rd, Ste 110, Yardley, PA 19067",Yardley,PA,19067,Bucks,Not available,-74.885307,40.223191
+275,"19420 E 50th Pl, Denver, CO 80249",Denver,CO,80249,Denver,GREEN VALLEY RANCH FLG NO 38,-104.761826,39.788537
+276,"303 Green Farm Way NW, Marietta, GA 30064",Marietta,GA,30064,Cobb,WEST HAMPTON,-84.646749,33.961457
+277,"12895 Bentwood Farms Dr, Pickerington, OH 43147",Pickerington,OH,43147,Fairfield,MALLARD POND SEC 5 PH 3,-82.758011,39.922159
+278,"120 S Main St Us Hwy, 95, Tonopah, NV 89049",Tonopah,NV,89049,Nye,Not available,-117.230338,38.067719
+279,"5670 Meadowood Ln, Westerville, OH 43082",Westerville,OH,43082,Delaware,MEADOWOOD CONDOS,-82.933286,40.169139
+280,"3000 Maingate Ln, # 407, Kissimmee, FL 34747",Kissimmee,FL,34747,Osceola County,Not available,-81.589369,28.335518
+281,"3257 Rogue River Rd NE, Belmont, MI 49306",Belmont,MI,49306,Kent,BLYTHEFIELD ACRES PLAT NO.1,-85.58845,43.071994
+282,"402 Lakewood Dr, Oldsmar, FL 34677",Oldsmar,FL,34677,Pinellas,"WOODS OF FOREST LAKES, THE PHASE ONE",-82.672859,28.054197
+283,"61 Kingsley Ave, Staten Island, NY 10314",Staten Island,NY,10314,Richmond,MANOR HEIGHTS PARK,-74.12364,40.622685
+284,"5119 39th St, Lubbock, TX 79414",Lubbock,TX,79414,Lubbock,HILLCREST,-101.92189,33.55851
+285,"1308 Quail Run Cir, Bentonville, AR 72712",Bentonville,AR,72712,Benton,QUAIL RUN SUB-BENTONVILLE,-94.225776,36.388168
+286,"6910 Breyerton Way SE, Owens Cross Roads, AL 35763",Owens Cross Roads,AL,35763,Madison,CARRINGTON PHASE II,-86.487113,34.637456
+287,"361 17th St NW, Unit 2201, Atlanta, GA 30363",Atlanta,GA,30363,Fulton,ATLANTIC 17TH,-84.398405,33.791385
+288,"2035 W Mcdermott Dr, Ste 460, Allen, TX 75013",Allen,TX,75013,Collin,Not available,-96.732247,33.098595
+289,"10409 Evendale Rd, Huntley, IL 60142",Huntley,IL,60142,McHenry,HUNTLEY MDWS/PASQUINELLIS,-88.399115,42.171238
+290,"5855 Cheshire Pkwy, Unit 3117, Minneapolis, MN 55446",Minneapolis,MN,55446,Hennepin,CO-OP TRILLIUM WOODS CONT CARE FAC,-93.465959,45.057845
+291,"612 Groce Meadow Rd, Lot A1, Taylors, SC 29687",Taylors,SC,29687,Greenville,Not available,-82.310457,34.997658
+292,"557 Dowling Cir, Lady Lake, FL 32159",Lady Lake,FL,32159,Lake,LAKES OF LADY LAKE THE,-81.936581,28.949354
+293,"1340 Hartford Ave, Johnston, RI 02919",Johnston,RI,2919,Providence,Not available,-71.496233,41.822097
+294,"2918 W Campbell Rd, Lakeland, FL 33810",Lakeland,FL,33810,Polk,TANGERINE TRAILS,-82.005474,28.14249
+295,"32543 Traviatta Ct, Temecula, CA 92592",Temecula,CA,92592,Riverside,Not available,-117.09213,33.497142
+296,"320 S Alta Ave, New Hampton, IA 50659",New Hampton,IA,50659,Chickasaw,Not available,-92.31168,43.053295
+297,"302 Ne Phoenix St, Hillsboro, OR 97124",Hillsboro,OR,97124,Washington,CASCADE PARK,-122.988933,45.547756
+298,"31 Smith Ave, Haskell, NJ 07420",Haskell,NJ,7420,Passaic,Not available,-74.292158,41.034899
+299,"10141 105th Ave, Unit 9, Canadian Lakes, MI 49346",Canadian Lakes,MI,49346,Mecosta,Not available,-85.287418,43.591244
+300,"510 W 1st St, Stanton, TX 79782",Stanton,TX,79782,Martin,Not available,-101.492621,32.249089
+301,"129 Nw 6th Pl, Cape Coral, FL 33993",Cape Coral,FL,33993,Lee,CAPE CORAL UNIT 37,-81.986692,26.651887
+302,"1722 Lady Slipper Cir, Orlando, FL 32825",Orlando,FL,32825,Orange,CYPRESS SPRINGS UT 1,-81.23481,28.524458
+303,"2016 John Ave, Edinburg, TX 78539",Edinburg,TX,78539,Hidalgo,CITRUS ESTATES UT NO. 2 - SEB,-98.185785,26.288225
+304,"12465 S Davies Pl, Tustin, CA 92782",Tustin,CA,92782,Orange,VALENCIA,-117.78001,33.737564
+305,"110 Singh Ln, # 3-320, Cary, NC 27513",Cary,NC,27513,Wake,Not available,-78.803299,35.815365
+306,"2850 E Jones Ave, Phoenix, AZ 85040",Phoenix,AZ,85040,Maricopa,Not available,-112.02111,33.410664
+307,"1010 Mcpherson Ave, Clairton, PA 15025",Clairton,PA,15025,Allegheny,CLAIRTON 4TH ADD,-79.89448,40.292514
+308,"10507 Silver Creek Dr, Pensacola, FL 32506",Pensacola,FL,32506,Escambia,WOODRIDGE MANOR UNIT #1,-87.366348,30.391944
+309,"10 Rugby Rd, Nashua, NH 03063",Nashua,NH,3063,Hillsborough,BROADACRES PART 3,-71.502133,42.771916
+310,"10325 Cypresswood Dr, Apt 1327, Houston, TX 77070",Houston,TX,77070,Harris,Not available,-95.574832,29.974669
+311,"1048 Travelers Trl NW, Kennesaw, GA 30144",Kennesaw,GA,30144,Cobb,KENNESAW WOODS,-84.611356,34.031405
+312,"7624 W 93rd St, Hickory Hills, IL 60457",Hickory Hills,IL,60457,Cook,BERGQUIST INCORPORATED,-87.809499,41.72259
+313,"2055 Barr Lks Blvd NW, Apt 628, Kennesaw, GA 30144",Kennesaw,GA,30144,Cobb,Not available,-84.612752,34.033195
+314,"1476 S Brentwood St, Lakewood, CO 80232",Lakewood,CO,80232,Jefferson,GREENWOOD PARK FLG #3,-105.089679,39.690038
+315,"146 W Sheffield Ave, Gilbert, AZ 85233",Gilbert,AZ,85233,Maricopa,DAVE BROWN MILLETT RANCH,-111.793694,33.326834
+316,"2046 Newcomer Dr, Galesburg, IL 61401",Galesburg,IL,61401,Knox,RACE TRACK ADDN,-90.339866,40.932908
+317,"5265 Red Leaf Dr S, Salem, OR 97306",Salem,OR,97306,Marion,SKYLINE VILLAGE PHASE I IN SALEM,-123.070706,44.879445
+318,"507B Lilac Ln, Whiting, NJ 08759",Whiting,NJ,8759,Ocean,Not available,-74.344385,39.940162
+319,"212 Union St, Fieldsboro, NJ 08505",Fieldsboro,NJ,8505,Burlington,Not available,-74.725805,40.134894
+320,"4606B Us Hwy, 41 N, Palmetto, FL 34221",Palmetto,FL,34221,Manatee,Not available,-82.557576,27.554228
+321,"1513 Morgan Campbell Ct, Charleston, SC 29407",Charleston,SC,29407,Charleston,FAIRFIELD PINES,-80.008243,32.802424
+322,"2010 Shoemaker Dr, Killeen, TX 76543",Killeen,TX,76543,Bell,CHIMNEY HILL ESTATES 2ND REPLAT,-97.698983,31.129954
+323,"4111 Cedar Valley Ln, Conley, GA 30288",Conley,GA,30288,Dekalb,Not available,-84.300057,33.660132
+324,"70338 9th St, Covington, LA 70433",Covington,LA,70433,Saint Tammany,TAMMANY HILLS / SOUTH ABITA,-90.059337,30.45525
+325,"14343 Glapthorn Rd, Fishers, IN 46037",Fishers,IN,46037,Hamilton,AVALON/FISHERS SEC 4D,-85.907916,39.973548
+326,"625 S 12th St, Sac City, IA 50583",Sac City,IA,50583,Sac,Not available,-94.998527,42.41504
+327,"9 Rose Ct, Windsor, CO 80550",Windsor,CO,80550,Weld,WINDSOR VILLAGE 1ST FG,-104.895941,40.465812
+328,"6923 Gold Leaf Cir, Shreveport, LA 71109",Shreveport,LA,71109,Caddo,"FOREST OAK SUBN, UNIT 2",-93.806787,32.444559
+329,"7991 N Westhills Trl, Lot 2, Park City, UT 84098",Park City,UT,84098,Summit,Not available,-111.457528,40.748981
+330,"16 Marian Cv, Cabot, AR 72023",Cabot,AR,72023,Lonoke,ROBINWOOD III,-92.01889,34.955415
+331,"Clearwater Dr, Spring City, TN 37381",Spring City,TN,37381,Rhea,Not available,-84.746217,35.735564
+332,"556 Dorothy Ln, East Lansing, MI 48823",East Lansing,MI,48823,Ingham,Not available,-84.48805,42.739086
+333,"4934 Payne St, Shawnee, KS 66226",Shawnee,KS,66226,Johnson,OAKMONT FIRST,-94.841749,39.03833
+334,"705 N Jay St, Griffith, IN 46319",Griffith,IN,46319,Lake,GRUGEL'S GLEN PARK 1ST ADD,-87.41879,41.533863
+335,"706 Avalon Creek Blvd, Vienna, OH 44473",Vienna,OH,44473,Trumbull,Not available,-80.707865,41.242037
+336,"2620 Brookville Dr, Valrico, FL 33596",Valrico,FL,33596,Hillsborough,BLOOMINGDALE SEC DD PH 3 AND PH 4 UNIT 2,-82.240751,27.871267
+337,"5413 Normandy Ave, Memphis, TN 38120",Memphis,TN,38120,Shelby,WESTVIEW LAND CO RICHLAND,-89.881263,35.133054
+338,"1980 N Maud Ave Apt C, Chicago, IL 60614",Chicago,IL,60614,Cook,HAPGOODS SUB,-87.657531,41.917564
+339,"200 Sarah Ln, Lawrenceville, GA 30046",Lawrenceville,GA,30046,Gwinnett,HANARRY POINTE,-84.003685,33.938312
+340,"289 Ironwood St, Vacaville, CA 95688",Vacaville,CA,95688,Solano,MONTE VISTA MANOR,-121.998406,38.364932
+341,"327 Conners Ave, Naples, FL 34108",Naples,FL,34108,Collier,CONNERS VANDERBILT BCH EST #3,-81.820283,26.268009
+342,"12402 N 86th Ln, Peoria, AZ 85381",Peoria,AZ,85381,Maricopa,COBBLESTONE VILLAGE UNIT 1,-112.246114,33.597193
+343,"259 Park Rd, Hamden, CT 06517",Hamden,CT,6517,New Haven,Not available,-72.902005,41.335189
+344,"1201 Wentzville Pkwy, Ste 115, Wentzville, MO 63385",Wentzville,MO,63385,Saint Charles,Not available,-90.863453,38.825711
+345,"4522 Murphy School Rd, Durham, NC 27705",Durham,NC,27705,Orange,JOSEPH LEE,-79.032558,36.013931
+346,"4316 Troost Ave, Kansas City, MO 64110",Kansas City,MO,64110,Jackson,Not available,-94.572815,39.048255
+347,"6402 Robbie St, Amarillo, TX 79119",Amarillo,TX,79119,Randall,HILLSIDE TERRACE ESTATES # 3,-101.944995,35.142365
+348,"6426 Roadrunner Loop NE, Rio Rancho, NM 87144",Rio Rancho,NM,87144,Sandoval,CORRALES NORTH 1,-106.604381,35.284389
+349,"416 Marlowe Ct, Nolensville, TN 37135",Nolensville,TN,37135,Williamson,BURKITT PLACE PH 2-I,-86.668423,35.984584
+350,"1145 N 600 E, Bountiful, UT 84010",Bountiful,UT,84010,Davis,VAL MAR SUB,-111.868091,40.900825
+351,"181 Hancox Ave Apt A, Nutley, NJ 07110",Nutley,NJ,7110,Essex,Not available,-74.153226,40.808532
+352,"2204 Peridot Loop Hts, Colorado Springs, CO 80908",Colorado Springs,CO,80908,El Paso,THE COMMONS AT VICTORY RIDGE,-104.791766,38.98478
+353,"3930 S Roosevelt Blvd, Apt 310W, Key West, FL 33040",Key West,FL,33040,Monroe,LAS SALINAS CONDO,-81.751109,24.559567
+354,"1880 W 25th St, Apt 4, Los Angeles, CA 90018",Los Angeles,CA,90018,Los Angeles,Not available,-118.305509,34.033467
+355,"29451 Crown Rdg, Laguna Niguel, CA 92677",Laguna Niguel,CA,92677,Orange,12969,-117.70363,33.535489
+356,"18111 S 154th East Ave, Bixby, OK 74008",Bixby,OK,74008,Wagoner,Not available,-95.808884,35.900396
+357,"4480 Sirius Ave, Apt 426, Las Vegas, NV 89102",Las Vegas,NV,89102,Clark,Not available,-115.200844,36.134587
+358,"1822 Crooks Ct, Grand Prairie, TX 75051",Grand Prairie,TX,75051,Dallas,PHILLIPS PARK,-97.003748,32.719337
+359,"1435 Baker St, Perry, GA 31069",Perry,GA,31069,Houston,P-23 EDGEWOOD WOODLA,-83.714805,32.453028
+360,"103 S Vermont St, Williamsport, MD 21795",Williamsport,MD,21795,Washington,Not available,-77.823657,39.597697
+361,"522 E 83rd St, Apt 5E, New York, NY 10028",New York,NY,10028,New York,Not available,-73.947345,40.773357
+362,"123 Wilson St, Struthers, OH 44471",Struthers,OH,44471,Mahoning,51700,-80.596187,41.050016
+363,"23W145 Foxcroft Dr, Glen Ellyn, IL 60137",Glen Ellyn,IL,60137,Dupage,FOXCROFT UNIT 01,-88.076207,41.830539
+364,"21359 Section Lake Rd, Ironton, MN 56455",Ironton,MN,56455,Crow Wing,SHADY OAK ACRES,-93.948782,46.447776
+365,"9527 N Hunter Ave, Kansas City, MO 64157",Kansas City,MO,64157,Clay,WOODNEATH FARMS THE HIGHLANDS 5TH,-94.471094,39.266324
+366,"1201 Formby Ct, Myrtle Beach, SC 29588",Myrtle Beach,SC,29588,Horry,ISLAND GREEN SOUTH,-79.058933,33.638844
+367,"559 Belk Rd, Newnan, GA 30263",Newnan,GA,30263,Coweta,CJ SMITH,-84.82978,33.364737
+368,"25 W Broad St, Ste 4, Cookeville, TN 38501",Cookeville,TN,38501,Putnam,Not available,-85.506683,36.164096
+369,"6051 Se Baseline Rd, Belleview, FL 34420",Belleview,FL,34420,Marion,Not available,-82.049554,29.063729
+370,"5401 Ivy Hill Dr, Arlington, TX 76016",Arlington,TX,76016,Tarrant,JUNIPER HILL ADD,-97.187626,32.692211
+371,"1728 Winter Creek Ct, Greenville, MI 48838",Greenville,MI,48838,Montcalm,WINTER CREEK CONDOMINIUM PLAT,-85.280107,43.182125
+372,"1037 Mobile Cir, Norman, OK 73071",Norman,OK,73071,Cleveland,COLONIAL ESTATES  2,-97.420729,35.205942
+373,"204 S Main St, Minoa, NY 13116",Minoa,NY,13116,Onondaga,Not available,-76.00293,43.072713
+374,"19475 Cypress Canyon Dr, Katy, TX 77449",Katy,TX,77449,Harris,CYPRESS MEADOW,-95.710859,29.837194
+375,"2503 Thomas Ave, Grapeville, PA 15634",Grapeville,PA,15634,Westmoreland,Not available,-79.609727,40.325312
+376,"127 N Main St, Apt 2, Crystal Lake, IL 60014",Crystal Lake,IL,60014,McHenry,Not available,-88.316127,42.244667
+377,"29580 N 68th Ave, Peoria, AZ 85383",Peoria,AZ,85383,Maricopa,SONORAN MOUNTAIN RANCH PARCEL 2,-112.206933,33.753031
+378,"1 Depot St, Ste 4, Livermore Falls, ME 04254",Livermore Falls,ME,4254,Androscoggin,Not available,-70.189531,44.472354
+379,"212 Carriage Trace Ln, Lexington, NC 27295",Lexington,NC,27295,Davidson,CARRIAGE TRACE,-80.388554,35.799462
+380,"2051 N Torey Pns Dr, Apt 2025, Las Vegas, NV 89108",Las Vegas,NV,89108,Clark,Not available,-115.234245,36.197639
+381,"8430 October Shadow Ct, Spring, TX 77379",Spring,TX,77379,Harris,MEMORIAL NORTHWEST,-95.548651,30.020398
+382,"5725 Madonna Cir, Knoxville, TN 37918",Knoxville,TN,37918,Knox,Not available,-83.927911,36.049159
+383,"2613 W 21st St, # 2, Chicago, IL 60608",Chicago,IL,60608,Cook,WALKERS DOUGLAS PARK ADD SUB,-87.691213,41.853589
+384,"401 Barry Mccaffrey Blvd, Unit C4, Hinesville, GA 31313",Hinesville,GA,31313,Liberty,MAYBANK VILLAGE,-81.620847,31.79585
+385,"711 Miller St, Cumberland, MD 21502",Cumberland,MD,21502,Allegany,Not available,-78.814708,39.649726
+386,"255 E Basse Rd, Ste 526, San Antonio, TX 78209",San Antonio,TX,78209,Bexar,Not available,-98.480588,29.495296
+387,"1827 S Racine Ave, Unit 3R, Chicago, IL 60608",Chicago,IL,60608,Cook County,Not available,-87.656098,41.857132
+388,"274 Hanson Rd, Onalaska, TX 77360",Onalaska,TX,77360,Polk,Not available,-95.127306,30.828941
+389,"33 Woodhollow Rd, Albertson, NY 11507",Albertson,NY,11507,Nassau,Not available,-73.64671,40.774189
+390,"4498 Hillsboro Loop, Las Cruces, NM 88012",Las Cruces,NM,88012,Dona Ana,SANDHILL CENTER HEIGHTS PHASE 5,-106.775005,32.368194
+391,"405 Village Rd, Apt 105, Breckenridge, CO 80424",Breckenridge,CO,80424,Summit,Not available,-106.048165,39.476972
+392,"5099 Cumberland Ct, Villa Rica, GA 30180",Villa Rica,GA,30180,Carroll,FAIRFIELD PLANTATION,-84.920134,33.652431
+393,"1536 Ocala Ave, Chula Vista, CA 91911",Chula Vista,CA,91911,San Diego,PRINCESS MANOR UNIT #4,-117.034678,32.603915
+394,"8613 Higuera St, Culver City, CA 90232",Culver City,CA,90232,Los Angeles,4161,-118.383985,34.022992
+395,"176 Dodd Dr, Washington, PA 15301",Washington,PA,15301,Washington,WINDSOR HLNDS PH IV,-80.199359,40.185983
+396,"1972 Blackridge Rd, Hoover, AL 35244",Hoover,AL,35244,Shelby County,Not available,-86.867284,33.323355
+397,"9841 Patrician Dr, New Port Richey, FL 34655",New Port Richey,FL,34655,Pasco,RIVERCHASE,-82.651757,28.219731
+398,"12383 N Pathfinder Dr, Marana, AZ 85658",Marana,AZ,85658,Pima,TANGERINE CROSSING RESUB,-111.040613,32.430936
+399,"104 Augusta Ct, Dayton, NV 89403",Dayton,NV,89403,Lyon,DAYTON VALLEY C C UNIT 1,-119.56128,39.247563
+400,"8 Keph Dr, Apt 6, Amherst, NY 14228",Amherst,NY,14228,Erie,Not available,-78.805918,43.002462
+401,"4896 Omar St, Fremont, CA 94538",Fremont,CA,94538,Alameda,Not available,-121.973115,37.521799
+402,"732 53rd Ter N, Saint Petersburg, FL 33703",Saint Petersburg,FL,33703,Pinellas,ARCADIA ANNEX,-82.643589,27.820559
+403,"9502 Alberta Ct, Frisco, TX 75033",Frisco,TX,75033,Denton,HEATHER RIDGE ESTATES PH V,-96.859328,33.157655
+404,"8516 N Willamette Blvd, Portland, OR 97203",Portland,OR,97203,Multnomah,Not available,-122.756036,45.587231
+405,"1686 Route, 12 Unit 1682, Ledyard, CT 06335",Ledyard,CT,6335,New London County,Not available,-72.080649,41.431936
+406,"PO Box 1267, Del Valle, TX 78617",Del Valle,TX,78617,Travis,Not available,-97.614475,30.15061
+407,"204 Porto Vecchio Way, Palm Beach Gardens, FL 33418",Palm Beach Gardens,FL,33418,Palm Beach,MIRASOL PAR 14,-80.149085,26.84584
+408,"6740 E Hampden Ave, Ste 305, Denver, CO 80224",Denver,CO,80224,Denver,Not available,-104.910381,39.652671
+409,"3521 Eaglerock Dr, Atlanta, GA 30340",Atlanta,GA,30340,Dekalb,NORTHCREST,-84.243774,33.89275
+410,"91 Clearview Dr, Saint Augustine, FL 32092",Saint Augustine,FL,32092,Saint Johns,Not available,-81.509353,29.991589
+411,"7145 Vaquero Ct, Ogden, UT 84404",Ogden,UT,84404,Weber,Not available,-112.152719,41.251369
+412,"8222 Station Village Ln, Apt 1601, San Diego, CA 92108",San Diego,CA,92108,San Diego,MISSIONS AT RIO VISTA CONDO,-117.147012,32.773454
+413,"310 12th Ave NW, Ardmore, OK 73401",Ardmore,OK,73401,Carter,ARDMORE CITY,-97.129927,34.185663
+414,"2302 Judy Ave, Rapid City, SD 57702",Rapid City,SD,57702,Pennington,MIDWESTERN,-103.25771399999999,44.072439
+415,"3666 S Pearl St, Apt 2, Englewood, CO 80113",Englewood,CO,80113,Arapahoe,Not available,-104.980247,39.649788
+416,"1629 N Donald Ave, Apt 249, Oklahoma City, OK 73127",Oklahoma City,OK,73127,Oklahoma,Not available,-97.626734,35.485394
+417,"206 S Belle Ave, Corona, CA 92882",Corona,CA,92882,Riverside,SOUTH RIVERSIDE TOWNSITE,-117.568628,33.879537
+418,"4206 Sequoia Dr, Westminster, MD 21157",Westminster,MD,21157,Carroll,FRANKLIN VIEW,-77.072234,39.456413
+419,"6199 Green Meadow Dr, Conway, SC 29527",Conway,SC,29527,Horry,Not available,-79.140991,33.75694
+420,"7901 La Carta Cir, Buena Park, CA 90620",Buena Park,CA,90620,Orange,Not available,-118.026192,33.847812
+421,"2246 Texas Ave, San Antonio, TX 78228",San Antonio,TX,78228,Bexar,CONV A/S CODE,-98.550755,29.450044
+422,"2233 Lagoon Dr, Dunedin, FL 34698",Dunedin,FL,34698,Pinellas,HARBOR VIEW VILLAS,-82.786157,28.042199
+423,"1430 Holly Heights Dr, Apt 2, Fort Lauderdale, FL 33304",Fort Lauderdale,FL,33304,Broward,OASIS FALLS CONDO,-80.132955,26.144802
+424,"1500 Violet Ave, Killeen, TX 76543",Killeen,TX,76543,Bell,ROSE ADDITION 3RD UNIT,-97.708593,31.09574
+425,"757 Village Ave, Collegeville, PA 19426",Collegeville,PA,19426,Montgomery,ARBOURS/SKIPPACK VILLAGE,-75.425909,40.203068
+426,"3726 Foxcroft Rd, Charlotte, NC 28211",Charlotte,NC,28211,Mecklenburg,Not available,-80.816799,35.159446
+427,"1500 W 7th St, Muncie, IN 47302",Muncie,IN,47302,Delaware,PERKINS ADD,-85.40358,40.183068
+428,"916 W 3rd St, Grandview, IN 47615",Grandview,IN,47615,Spencer,Not available,-86.989113,37.932284
+429,"189 Laurel Trce, Carrollton, GA 30116",Carrollton,GA,30116,Carroll,LAUREL SPRINGS MHS -M130,-84.995034,33.630825
+430,"7757 S Ada St, Apt Grnd, Chicago, IL 60620",Chicago,IL,60620,Cook,Not available,-87.656487,41.752402000000004
+431,"136 Glen Abbey Ln, Alabaster, AL 35007",Alabaster,AL,35007,Shelby,WEATHERLY GLEN ABBEY SECTOR 12,-86.797878,33.257568
+432,"5711 Lake Grove Dr, White Lake, MI 48383",White Lake,MI,48383,Oakland,WHITE LAKE GROVE SUB,-83.558855,42.690243
+433,"23788 N Lakeside Dr, Lake Zurich, IL 60047",Lake Zurich,IL,60047,Lake,LAKE SUB,-88.054409,42.208691
+434,"250 Wood Hollow Dr, Weatherford, TX 76087",Weatherford,TX,76087,Parker,THE COUNTRY PLACE,-97.895308,32.682326
+435,"334 Academy St, Carnegie, PA 15106",Carnegie,PA,15106,Allegheny,M B BROWNS,-80.082032,40.408136999999996
+436,"3306 Winston Blvd, Apt 203, Wilmington, NC 28403",Wilmington,NC,28403,New Hanover,Not available,-77.900432,34.226366
+437,"9809 E 61st St, Apt 5, Raytown, MO 64133",Raytown,MO,64133,Jackson,Not available,-94.464857,39.012465
+438,"2413 N Summit St, Toledo, OH 43611",Toledo,OH,43611,Lucas,Not available,-83.502927,41.673979
+439,"1377 Salem St, Memphis, TN 38122",Memphis,TN,38122,Shelby,FAIR OAKS TERRACE,-89.933713,35.169202
+440,"4601 Amesbury Dr, Apt 1142, Dallas, TX 75206",Dallas,TX,75206,Dallas,Not available,-96.763962,32.843113
+441,"11808 Amethyst Ct, Jurupa Valley, CA 91752",Jurupa Valley,CA,91752,Riverside,Not available,-117.540987,33.970787
+442,"1225 Lakeshore Dr, Apt 333, Edmond, OK 73013",Edmond,OK,73013,Oklahoma,Not available,-97.501345,35.635891
+443,"2515 Jefferson Ave, Reading, PA 19609",Reading,PA,19609,Berks,SPRINGTON VILLAGE PH 02,-75.998934,40.318996
+444,"2218 Lake Oaks Pkwy, New Orleans, LA 70122",New Orleans,LA,70122,Orleans,LAKE OAKS,-90.059971,30.02894
+445,"205 S Lamar St, Abbeville, LA 70510",Abbeville,LA,70510,Vermilion,FF YOUNG'S ADD,-92.126794,29.971182
+446,"4501 Gannet Ln, Garland, TX 75043",Garland,TX,75043,Dallas,HERONS BAY ESTATES,-96.597313,32.863811
+447,"542 Mikey Pl, Manteca, CA 95336",Manteca,CA,95336,San Joaquin,ALAMEDA ESTATES,-121.212249,37.805463
+448,"10785 Orchard Walk Pl W, Jacksonville, FL 32257",Jacksonville,FL,32257,Duval,ORCHARD WALK,-81.622307,30.180544
+449,"155 W First St, Unit 223, Oswego, NY 13126",Oswego,NY,13126,Oswego,Not available,-76.511444,43.457615
+450,"4423 Edgewood Ave, Oakland, CA 94602",Oakland,CA,94602,Alameda,FOURTH AVE PARK,-122.220308,37.809307
+451,"1017 E Lyon St, Milwaukee, WI 53202",Milwaukee,WI,53202,Milwaukee,ASTOR COURT AT EAST POINTE CONDOMINIUM,-87.899059,43.049184
+452,"12101 N Dale Mabry Hwy, Apt 905, Tampa, FL 33618",Tampa,FL,33618,Hillsborough,Not available,-82.501976,28.06113
+453,"1631 N Trowbridge, Mesa, AZ 85207",Mesa,AZ,85207,Maricopa,CORTE BELLA AT MOUNTAIN BRIDGE,-111.636465,33.444921
+454,"21 Clinton St, Ware, MA 01082",Ware,MA,1082,Hampshire,Not available,-72.25145,42.260892
+455,"1073 Nesbitt Rd, Northfield, OH 44067",Northfield,OH,44067,Summit,NORTHFIELD,-81.564842,41.331525
+456,"18 Wiltshire Way, Schenectady, NY 12309",Schenectady,NY,12309,Schenectady,AVON CREST,-73.872885,42.781846
+457,"10580 Longleaf Dr, Conroe, TX 77385",Conroe,TX,77385,Montgomery,Not available,-95.413596,30.164283
+458,"10612 157th Ave NE, Redmond, WA 98052",Redmond,WA,98052,King,REDMOND LT LINE ADJUSTMENT #S,-122.129887,47.695173
+459,"6725 Lancret Hill Dr, Unit B, Austin, TX 78745",Austin,TX,78745,Travis,Not available,-97.816422,30.210375
+460,"6575 Milam Ct, Fort Sill, OK 73503",Fort Sill,OK,73503,Comanche,Not available,-98.399537,34.673489000000004
+461,"620 Utica St, Fulton, NY 13069",Fulton,NY,13069,Oswego,Not available,-76.407676,43.324769
+462,"2805 Airwood Dr, Nashville, TN 37214",Nashville,TN,37214,Davidson,LAKELAND,-86.673253,36.159312
+463,"6449 Laural Bnd, Stone Mountain, GA 30087",Stone Mountain,GA,30087,Dekalb,EDISON PARK,-84.125434,33.78274
+464,"8202 S 45 Rd, Cadillac, MI 49601",Cadillac,MI,49601,Wexford,Not available,-85.376708,44.220084
+465,"5906 Meadow Lark Ct, Milford, OH 45150",Milford,OH,45150,Clermont,CHADWICK FARM PHASE 1,-84.236344,39.208188
+466,"114 Evergreen Ln, Apt 32, Cedartown, GA 30125",Cedartown,GA,30125,Polk,Not available,-85.259112,34.037662
+467,"7554 N Cottage Ln, Eagle Mountain, UT 84005",Eagle Mountain,UT,84005,Utah,SILVERLAKE,-111.947126,40.355503
+468,"6414 Thornwall St, Houston, TX 77092",Houston,TX,77092,Harris,LANGWOOD SEC 3,-95.485867,29.826761
+469,"35 High St, Brunswick, ME 04011",Brunswick,ME,4011,Cumberland,Not available,-69.973157,43.915608
+470,"748 Sw Mccrohan St, Oak Harbor, WA 98277",Oak Harbor,WA,98277,Island,SUNSET HILLS,-122.673473,48.292343
+471,"3018 R St NW, Unit 1/2, Washington, DC 20007",Washington,DC,20007,District Of Columbia,MONTROSE WALK,-77.059965,38.912464
+472,"152 Pascack Rd, Hillsdale, NJ 07642",Hillsdale,NJ,7642,Bergen,Not available,-74.056193,41.005896
+473,"6608 N 24th St, Omaha, NE 68112",Omaha,NE,68112,Douglas,MINNE LUSA,-95.947245,41.318638
+474,"8115 Vail Dr, Amarillo, TX 79118",Amarillo,TX,79118,Randall,CITY VIEW ESTATES # 3 AMD,-101.877176,35.124498
+475,"4090 Rio Vista Dr, # 4170-408, Colorado Springs, CO 80917",Colorado Springs,CO,80917,El Paso,Not available,-104.724174,38.891293
+476,"PO Box 4301, North Fort Myers, FL 33918",North Fort Myers,FL,33918,Lee,Not available,-81.8781,26.6641
+477,"2857 Paradise Rd, Unit 401, Las Vegas, NV 89109",Las Vegas,NV,89109,Clark,TURNBERRY PLACE PHASE 2,-115.155531,36.136725
+478,"246 Brockton Dr, Madison, AL 35756",Madison,AL,35756,Limestone,Not available,-86.788631,34.686161
+479,"1018 Watergate Dr, Smyrna, TN 37167",Smyrna,TN,37167,Rutherford,BANKSIDE SEC 3,-86.569745,35.923081
+480,"3237 Apple Blossom Dr, Alva, FL 33920",Alva,FL,33920,Lee,CASCADES AT RIVER HALL,-81.709375,26.694267
+481,"PO Box 19583, Indianapolis, IN 46219",Indianapolis,IN,46219,Marion,Not available,-86.046279,39.783288
+482,"2911 Arizona Ave, Dallas, TX 75216",Dallas,TX,75216,Dallas,FREEMONT,-96.818547,32.710958
+483,"325 Higley Cir, Horizon City, TX 79928",Horizon City,TX,79928,El Paso,HORIZON HEIGHTS #10,-106.204549,31.691599
+484,"5312 Tupelo Ln, Las Vegas, NV 89122",Las Vegas,NV,89122,Clark,DESERT INN MOBILE ESTATE 2,-115.058728,36.129381
+485,"1766 Cape Coral Pkwy E, Apt 210, Cape Coral, FL 33904",Cape Coral,FL,33904,Lee,CAPE BEACH PKWY,-81.939711,26.562662
+486,"916 Merrifield Pl, Mishawaka, IN 46544",Mishawaka,IN,46544,St Joseph,DODGE RENEWAL AREA 02,-86.167662,41.652944
+487,"2020 Westcreek Ln, Unit 527, Houston, TX 77027",Houston,TX,77027,Harris,Not available,-95.455498,29.745285
+488,"17711 Lochness Cir, Olney, MD 20832",Olney,MD,20832,Montgomery,Not available,-77.065107,39.146785
+489,"87 E Shirley Ave, Apt 1, Warrenton, VA 20186",Warrenton,VA,20186,Fauquier,Not available,-77.797211,38.707396
+490,"8512 Bryden St, Detroit, MI 48204",Detroit,MI,48204,Wayne,TIREMAN PARK SUB,-83.144914,42.35719
+491,"7904 Floradora Dr, New Port Richey, FL 34654",New Port Richey,FL,34654,Pasco,RIVER RIDGE,-82.621963,28.27181
+492,"1977 Longview Dr, Corona, CA 92882",Corona,CA,92882,Riverside,Not available,-117.602802,33.863108
+493,"6500 Roosevelt Rd, # 22, Oak Park, IL 60304",Oak Park,IL,60304,Cook,Not available,-87.786411,41.865133
+494,"7 Hadley Dr, Fairport, NY 14450",Fairport,NY,14450,Monroe,HADLEY FARMS,-77.440712,43.080827
+495,"13718 Brownsville St, Apt 1, Houston, TX 77015",Houston,TX,77015,Harris,Not available,-95.181478,29.781632
+496,"275 Sugarcreek Dr, Grovetown, GA 30813",Grovetown,GA,30813,Columbia,SUGAR CREEK,-82.179926,33.493969
+497,"9449 Clinton Ave S, Minneapolis, MN 55420",Minneapolis,MN,55420,Hennepin,DON THORPS 2ND ADDN,-93.271758,44.831898
+498,"3050 Mccannon Mill Dr, Dacula, GA 30019",Dacula,GA,30019,Gwinnett,MILL CREEK,-83.916323,34.043824
+499,"PO Box 280367, Jacksonville, FL 32211",Jacksonville,FL,32211,Duval,Not available,-81.583454,30.339216
+500,"511 Welsh Cir, Colorado Springs, CO 80916",Colorado Springs,CO,80916,El Paso,GATEWAY VISTA FIL NO 01,-104.745115,38.823997
